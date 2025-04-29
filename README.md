@@ -1,6 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-## Name : NIRMAL N
-## Register Number : 212223240107
+# Name : NIRMAL N
+# Register Number : 212223240107
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
